@@ -9,10 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/reklatsmasters/node-process-list.git"
-  },
-  "bugs": {
-    "url": "https://github.com/reklatsmasters/node-process-list/issues"
+    "url": "git://github.com/maker91/node-process-list.git"
   },
   "license": "MIT",
   "engines": {
