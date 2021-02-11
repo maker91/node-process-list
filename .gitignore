@@ -5,3 +5,7 @@ npm-debug.log
 lib
 .vscode
 .idea
+.npm-version
+.node-version
+package-lock.json
+prebuilds
