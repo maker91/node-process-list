@@ -1,5 +1,5 @@
 {
-  "name": "process-list",
+  "name": "@ts/process-list",
   "version": "1.2.3",
   "description": "Cross-platform method to receive the list of the launched processes",
   "main": "index.js",
@@ -30,8 +30,8 @@
     "forever"
   ],
   "author": {
-    "name": "Dmitry Tsvettsikh",
-    "email": "me@reklatsmasters.com"
+    "name": "Matthew Reckless",
+    "email": "mail@matthewreckless.co.uk"
   },
   "devDependencies": {
     "ava": "^0.25.0",
